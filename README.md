@@ -6,7 +6,7 @@ This repository contains the code implementation for the paper titled "Enhancing
 
 The paper presents a novel approach to improve eye socket recognition performance by leveraging inverse histogram fusion images in Gabor transform. The code provided here includes Java implementations (`EyeSocketRecognition.pde`, `GaborFeature.pde`, and `Utils.pde`) for eye socket recognition and Gabor feature extraction. These features are then utilized by our proposed method, implemented in Python (`model.py`), for accurate eye socket recognition.
 
-Additionally, we provide code (`CK_processed`) for pre-processing the CK+ dataset. Moreover, we conduct comparative analyses with other filter-based approaches, including wavelength-based filtering, guided filter, and bilateral filter. For evaluating the proposed method against deep learning methods, we provide implementations of VGG19, InceptionV3, ResNet50, Face Mesh Deep Neural Network, and Multi-task Neural Network (`VGG19.py`, `InceptionV3.py`, `ResNet50.py`, `FaceMesh_DNN.py`, and `MTN.py`).
+Additionally, we provide code (`CK_processed`) for pre-processing the CK+ dataset. Moreover, we conduct comparative analyses with other filter-based approaches, including wavelength-based filtering, gabor filter, guided filter, and bilateral filter (`wavelength_basedFilter.py`, `EyeSocketRecognition.pde`, `guidedFilter.py`, and `bilateralFilter.py`). For evaluating the proposed method against deep learning methods, we provide implementations of VGG19, InceptionV3, ResNet50, Face Mesh Deep Neural Network, and Multi-task Neural Network (`VGG19.py`, `InceptionV3.py`, `ResNet50.py`, `FaceMesh_DNN.py`, and `MTN.py`).
 
 ## Datasets
 
