@@ -20,18 +20,14 @@ Researchers can also access the datasets used in our study:
 
 If you utilize our code or findings, please cite our paper:
 
+```bash
 @article{shehu2024enhancing,
   title={Enhancing Eye Socket Recognition Performance using Inverse Histogram Fusion Images in Gabor Transform},
   author={Shehu, Harisu Abdullahi and Ince, Ibrahim Furkan and Bulut, Faruk},
   journal={Under Review},
   year={2024}
 }
-
-@article{shehu2024enhancing,
-  title={Enhancing Eye Socket Recognition Performance using Inverse Histogram Fusion Images in Gabor Transform},
-  author={Shehu, Harisu Abdullahi and Ince, Ibrahim Furkan and Bulut, Faruk},
-  journal={Under Review}, year={2024}
-}
+```
 
 
 For any inquiries, please contact Harisu Abdullahi Shehu at harisu.shehu@ecs.vuw.ac.nz
