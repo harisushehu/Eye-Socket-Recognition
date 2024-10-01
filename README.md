@@ -28,7 +28,8 @@ If you utilize our code or findings, please cite our paper:
   author={Shehu, Harisu Abdullahi and Ince, Ibrahim Furkan and Bulut, Faruk},
   journal={Etri journal},
   year={2024},
-  doi={\href{https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0395}{10.4218/etrij.2023-0395}}
+  doi={10.4218/etrij.2023-0395},
+  url={https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0395}
 }
 ```
 
