@@ -1,6 +1,7 @@
 # Eye Socket Recognition
 
-This repository contains the code implementation for the paper titled "Enhancing Eye Socket Recognition Performance using Inverse Histogram Fusion Images in Gabor Transform" authored by Harisu Abdullahi Shehu, Ibrahim Furkan Ince, and Faruk Bulut.
+This repository contains the code implementation for the paper titled "[Enhancing Eye Socket Recognition Performance using Inverse Histogram Fusion Images in Gabor Transform](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0395)" authored by Harisu Abdullahi Shehu, Ibrahim Furkan Ince, and Faruk Bulut.
+
 
 ## Overview
 
